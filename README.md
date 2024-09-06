@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Gabrielle Antunes
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,7 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+gabrielle.antunes23@escola.pr.gov.br
 
-@marcelopaludetto
 
 ![](https://media1.tenor.com/m/OF697Z4kAlEAAAAd/chico-moedas-gifs.gif)
